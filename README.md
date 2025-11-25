@@ -1,2 +1,4 @@
-# kommunaler-haushaltsassistent
-Experimentelles Open-Source-Projekt für einen KI-gestützten kommunalen Haushaltsassistenten.
+# Kommunaler Haushaltsassistent
+
+Experimentelles Repository zur Vorbereitung eines KI-gestützten Assistenten für die Analyse kommunaler Haushaltspläne.  
+Das Projekt befindet sich aktuell in der Definitionsphase.
